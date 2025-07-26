@@ -64,12 +64,7 @@ python scripts/evaluate.py --model rnn
 ## Citation
 If you use this repository in your research, please cite our paper:
 ```
-@article{NU_Research2024,
-  author    = {S. Yousef, N. Ismail, O. Said, and Noha Gamal},
-  title     = {Evaluating Deep Learning Challenges in Lightweight AES Cryptanalysis},
-  journal   = {Supported by Nile University},
-  year      = {2024}
-}
+Said, O., Ismail, N., Yousef, S., Gamal, N. (2025). Assessing Deep Learning Challenges in Lightweight AES Cryptanalysis. In: Maglogiannis, I., Iliadis, L., Andreou, A., Papaleonidas, A. (eds) Artificial Intelligence Applications and Innovations. AIAI 2025. IFIP Advances in Information and Communication Technology, vol 756. Springer, Cham. https://doi.org/10.1007/978-3-031-96228-8_5
 ```
 
 ## Contributors
